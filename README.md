@@ -100,7 +100,8 @@ Estes requisitos são opcionais no desafio, sinta-se a vontade para deixá-los d
 # FAQ :question:
 > Como devo fazer a entrega do desafio?
 
-- Envie o link do seu repositório de código particular para quem te fez a solicitação de execução desse desafio.
+- Disponibilize no Github de forma privada, compartilhando com os usuários.
+- elizeumedeiros@gmail.com
 
 > Se eu tiver dúvidas?
 - Entre em contato com nosso time que esta te apoiando no processo seletivo.
